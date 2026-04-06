@@ -1,6 +1,6 @@
 Hey hey hey, look who prepared his TP for once.
 
-There are a few documents to look at here: the templates provide comments that try to explain as much as possible how Euler and Runge-Kutta methods work (because I didn't at the time, and I figured I should leave it there for another poor soul who doesn't understand);
+There are a few documents to look at here: the templates provide comments that try to explain as much as possible how Euler and Runge-Kutta methods work (because I didn't at the time, and I figured I should leave it there for any other poor soul who doesn't understand them);
 the documents humbly titled "euler" and "rk4" are just files you need to save into the same directory as the one where you will save your Python scripts
 (you don't need to touch these 2 files, for they contain universal information);
 "prog" and "Graph" files are for me, so get your dirty hands off them >:(
