@@ -7,6 +7,6 @@ the documents humbly titled "euler" and "rk4" are just files you need to save in
 
 Just kidding, you can do whatever you want with them but they sometimes contain methods I regularly use like dataframes that the teacher will probably deem too unconventionnal for Python, so it's best not to copy straight from my work or the teacher is going to see 3 persons using dataframes when they're not supposed to be used. Oh also don't bother looking at files with "analytique" in their name, the TP doesn't require them + I'm pretty sure they're wrong.
 
-Side note: it's pronounced [ˈʀʊŋə-ˈkʊta], like "Roungueux-Kouta" (French spelling) with an English nasal "ng" sound, not "Roundj-Kouta".
+Side note: it's pronounced [ˈʀʊŋəˈkʊta], like "Roungueux-Kouta" (French spelling) with an English nasal "ng" sound, not "Roundj-Kouta".
 
 https://github.com/user-attachments/assets/3046bb6e-2ca0-4d65-8a05-ed739d3397b9
